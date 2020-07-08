@@ -28,6 +28,4 @@ Voir stop-compute.ipynb
 
 ## Exectuer ce repo sur mybinder
 
-<https://mybinder.org/v2/gh/jtobelem-simplon/DP-100-ressources.git/master?filepath=stop-compute.ipynb>
-
-https://mybinder.org/v2/gh/jtobelem-simplon/DP-100-ressources/52702a9ad484d28b625555c370708bd28bfea338
+<https://mybinder.org/v2/gh/jtobelem-simplon/DP-100-ressources.git/master>
