@@ -2,7 +2,7 @@
 
 ## Repos
 
-- <https://github.com/MicrosoftDocs/mslearn-aml-labs> : Microsoft Learn - Azure Machine Learning Labs
+- <https://github.com/MicrosoftDocs/mslearn-aml-labs.git> : Microsoft Learn - Azure Machine Learning Labs
 This repository contains the files necessary for hands-on labs to support content on Microsoft Learn.
 
 - <https://github.com/MicrosoftLearning/DP100.git> : DP-100: Designing and Implementing a Data Science Solution on Azure
@@ -28,3 +28,6 @@ Voir stop-compute.ipynb
 
 ## Exectuer ce repo sur mybinder
 
+<https://mybinder.org/v2/gh/jtobelem-simplon/DP-100-ressources.git/master?filepath=stop-compute.ipynb>
+
+<https://hub.gke.mybinder.org/user/jtobelem-simplo--100-ressources-fhakpg6q/tree>
