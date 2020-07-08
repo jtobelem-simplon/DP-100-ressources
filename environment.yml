@@ -1,0 +1,8 @@
+name: az-env
+dependencies:
+- python>=3.7
+- anaconda
+- pip
+- pip:
+  - azureml-sdk
+  - azureml-sdk[explain,automl]
