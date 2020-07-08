@@ -30,4 +30,4 @@ Voir stop-compute.ipynb
 
 <https://mybinder.org/v2/gh/jtobelem-simplon/DP-100-ressources.git/master?filepath=stop-compute.ipynb>
 
-<https://hub.gke.mybinder.org/user/jtobelem-simplo--100-ressources-fhakpg6q/tree>
+https://mybinder.org/v2/gh/jtobelem-simplon/DP-100-ressources/52702a9ad484d28b625555c370708bd28bfea338

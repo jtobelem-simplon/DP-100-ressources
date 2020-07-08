@@ -1,7 +1,11 @@
 name: az-env
+channels:
+- anaconda
+- conda-forge
+- defaults
 dependencies:
 - python>=3.7
-- anaconda
+- jupyter_contrib_nbextensions
 - pip
 - pip:
   - azureml-sdk
