@@ -1,0 +1,12 @@
+[submodule "DP100"]
+	path = DP100
+	url = https://github.com/MicrosoftLearning/DP100.git
+[submodule "mslearn-aml-labs"]
+	path = mslearn-aml-labs
+	url = https://github.com/MicrosoftDocs/mslearn-aml-labs.git
+[submodule "MachineLearningNotebooks"]
+	path = MachineLearningNotebooks
+	url = https://github.com/Azure/MachineLearningNotebooks.git
+[submodule "WorkshopAML2020"]
+	path = WorkshopAML2020
+	url = https://github.com/retkowsky/WorkshopAML2020.git
